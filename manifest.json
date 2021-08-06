@@ -1,0 +1,6 @@
+{
+  "name": "Phoenix LiveView Developer tools",
+  "description": "Adds debuggin tools for Phoenix LiveView applications",
+  "version": "0.1.0",
+  "manifest_version": 3
+}
