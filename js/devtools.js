@@ -1,0 +1,1 @@
+chrome.devtools.panels.create("LiveView", "/img/phoenix_logo.png", "/html/panel.html", null);
